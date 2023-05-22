@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "authentication.app.jwtTime",
+    "type": "java.lang.String",
+    "description": "A description for 'authentication.app.jwtTime'"
+  },
+  {
+    "name": "spring.kafka.topic.name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.kafka.topic.name'"
+  }
+]}
